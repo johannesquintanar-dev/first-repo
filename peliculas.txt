@@ -4,3 +4,7 @@ huster
 -------------esto se agrego a las 11:02
 toy story 
 sinsajo
+------------------ esto es main 
+pelicula 6 
+pelicula 7
+
